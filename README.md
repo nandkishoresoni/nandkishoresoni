@@ -11,10 +11,10 @@
 
 ### 🔥 About Me
 
-- 💼 Building smart bots, productivity apps & voice‑enabled tools
-- 🎓 Pursuing Diploma in **Computer Science Engineering** at DSEU
-- 🧠 Deep diving into **AI Agents**, automation workflows & open‑source
-- 🚀 Passionate about clean code, impactful projects & collaboration
+- 💼 Building smart bots, productivity apps & voice‑enabled tools  
+- 🎓 Pursuing Diploma in **Computer Science Engineering** at DSEU  
+- 🧠 Deep diving into **AI Agents**, automation workflows & open‑source  
+- 🚀 Passionate about clean code, impactful projects & collaboration  
 
 ---
 
@@ -35,6 +35,21 @@
 
 ---
 
+### 📉 My Skills as a Bar Graph
+
+JavaScript ██████████████████ 90%
+Node.js ███████████████ 80%
+React.js █████████████ 75%
+Python ███████████ 65%
+MongoDB ██████████ 60%
+Firebase █████████ 55%
+Tailwind CSS ███████████ 65%
+Automation █████████████ 75%
+AI Tools ██████████ 60%
+
+
+---
+
 ### 📫 Let's Connect
 
 <p align="center">
@@ -52,7 +67,7 @@
 
 - Smart automation tools for daily workflow 🛠️  
 - AI‑enabled assistants & productivity boosters 🤖  
-- Exploring **n8n**, open‑source APIs & voice tech 🔧
+- Exploring **n8n**, open‑source APIs & voice tech 🔧  
 
 ---
 
@@ -65,3 +80,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nandkishoresoni&style=flat-square&color=blue" alt="Profile views"/>
 </p>
+
