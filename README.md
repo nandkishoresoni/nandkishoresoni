@@ -4,10 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=Hi%20I'm%20Nandkishor%20Soni!%20👋&fontAlign=50&fontColor=FFFFFF&fontSize=24&color=gradient"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nandkishoresoni/nandkishoresoni/output/snake.svg" alt="Animated snake" />
-</p>
-
 <h2 align="center">🚀 Full Stack Developer | 🤖 Automation Builder | 🎯 Curious Tech Explorer</h2>
 
 ---
